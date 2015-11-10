@@ -9,7 +9,8 @@
 
 // echo "x +=y is " . $x ."</br>";
 
-$anything = 34+420;
+$rtu = 420;
+$math = 85;
 
-echo $anything;
+echo $rtu+$math;
 ?>
